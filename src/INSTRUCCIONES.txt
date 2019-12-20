@@ -1,0 +1,6 @@
+1. Descargar Xampp
+2. Ejecutar xammpp e importar la base de datos.
+3. Añadir los Driver mysql-connector-java-5.1.22-bin.jar e jasperreports-fonts-6.2.0.jar
+4. y Ejecutar el login
+
+!! INSTRUCCIONES DEL SISTEMA DE CONTROL DE INVENTARIO !!
